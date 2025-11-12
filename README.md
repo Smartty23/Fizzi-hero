@@ -4,6 +4,12 @@
 
 Fizzi Hero is an innovative web application showcasing an interactive landing page with advanced 3D animations, built using cutting-edge web technologies. Experience immersive 3D soda can visualizations with smooth animations and dynamic content management.
 
+## Demo
+
+![Fizzi Hero Demo](resources/front.gif)
+
+> A stunning 3D interactive experience featuring animated soda cans with smooth transitions and engaging visual effects.
+
 
 ## Tech Stack
 
@@ -102,11 +108,6 @@ Fizzi Hero is an innovative web application showcasing an interactive landing pa
 - Lazy loading with React Suspense
 - Performance monitoring with r3f-perf
 
-## Acknowledgments
-
-- [Alex Trost](https://github.com/smartty23)
-- [Prismic](https://github.com/prismicio)
-
 ## Getting Started
 
 ### Prerequisites
@@ -116,7 +117,7 @@ Fizzi Hero is an innovative web application showcasing an interactive landing pa
 
 ### Installation
 ```bash
-git clone https://github.com/smartty23/Fizzi-hero.git
+git clone https://github.com/Smartty23/Fizzi-hero.git
 cd Fizzi-hero
 npm install
 npm run dev
@@ -134,5 +135,28 @@ NEXT_PUBLIC_PRISMIC_ENVIRONMENT=fizzipop
 - Production build: `npm run build`
 - Start production: `npm start`
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Contact
+
+**Developer**: Abraham Che  
+**GitHub**: [@Smartty23](https://github.com/Smartty23)  
+**Email**: abrahamche82@gmail.com  
+**Phone**: +234 806 292 3229
+
+## Acknowledgments
+
+-  - Original concept and inspiration
+- [Prismic](https://github.com/prismicio) - Headless CMS platform
+- [Three.js](https://threejs.org/) - 3D graphics library
+- [GSAP](https://greensock.com/gsap/) - Animation platform
+
 ## License
-This project is licensed under the Apache-2.0 License.
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by [Abraham Che](https://github.com/Smartty23)
